@@ -1,0 +1,10 @@
+{
+    "pit": {
+        "pass": "$2y$10$gaKSgpNKp7saMccCaH5jKuSC6zUKl2BAwCCmI.pXgpD1Mx2zcgnWS",
+        "role": "user"
+    },
+    "admin": {
+        "pass": "$2y$10$GkcFFJvTeDrhbskvPolzhO0nfEy0lUJ0EO20N329Xs3MhTQRMz5cS",
+        "role": "admin"
+    }
+}

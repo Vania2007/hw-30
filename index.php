@@ -1,6 +1,7 @@
 <?php
 ob_start();
 session_start();
+isset($_SESSION['authorized']) ? $_SESSION['authorized'] = $_SESSION['authorized'] : $_SESSION['authorized'] = 0;
 ?>
 <html>
 
